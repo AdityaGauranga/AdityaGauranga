@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Gauranga （￣︶￣）↗　
+- 👋 Hi, I’m Aditya Gauranga （￣︶￣)^　
 - 👀 I am quite interested in Traditional Art, Game Development using UE and 3D Modelling
 - 💻 I’m currently learning HTML, CSS and Javascript
 - 🎋 Hardcore anime watcher
