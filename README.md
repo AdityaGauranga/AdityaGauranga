@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaGauranga
-- 👀 I
+- 👀 I am quite interested in Traditional Art, Game Development using UE and 3D Modelling
 - 💻 I’m currently learning HTML, CSS and Javascript
 - 🎋 Hardcore anime watcher
 - 📫 You can reach me here on Discord! Invictus#6367 
