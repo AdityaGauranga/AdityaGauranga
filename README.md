@@ -1,4 +1,4 @@
-<h3>Hey there （￣︶￣)^</h3>
+<h3><i>Hey there!</i> （￣︶￣)^</h3>
 - 👋 I am Aditya Gauranga from Northeastern India 😄
 - 👀 I am quite interested in Traditional Art, Game Development using UE and 3D Modelling
 - 💻 I’m currently learning HTML, CSS and Javascript and loads coming later!
