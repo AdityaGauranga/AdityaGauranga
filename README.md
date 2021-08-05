@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Aditya Gauranga （￣︶￣)^　
+<h3>Hey there</h3> （￣︶￣)^
+- 👋 I am Aditya Gauranga from Northeastern India 😄
 - 👀 I am quite interested in Traditional Art, Game Development using UE and 3D Modelling
-- 💻 I’m currently learning HTML, CSS and Javascript
-- 🎋 Hardcore anime watcher
+- 💻 I’m currently learning HTML, CSS and Javascript and loads coming later!
+- 🎋 Hardcore Anime Otaku. Feel free to suggest me some I haven't yet watched
 - 📫 You can reach me here on Discord! Invictus#6367 
 
 <!---
