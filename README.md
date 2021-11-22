@@ -4,7 +4,7 @@
 <br>
 - 👀 I am quite interested in Traditional Art, Game Development using UE and 3D Modelling
 <br>
-- 💻 I’m currently learning HTML, CSS and Javascript and loads coming later!
+- 💻 I’m currently learning Web Development, Pixel Art and 3D Modelling
 <br>
 - 🎋 Hardcore Anime Otaku. Feel free to suggest me some I haven't yet watched
 <br>
