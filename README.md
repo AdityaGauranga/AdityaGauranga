@@ -1,8 +1,12 @@
+# Āditya Gauranga
+
 <hr>
 <h3><i>Hey there!</i> （￣︶￣)^</h3>
-- 👋 I am Aditya Gauranga from Northeastern India 😄
+- 👋 I am Aditya Gauranga from Northeastern India 😄 
 <br>
-- 👀 I am quite interested in Traditional Art, Game Development using UE and 3D Modelling
+- My real name is <i>Aditya Sarma</i> but you can call me with whatever name you please 😆
+<br>
+- 👀 I am quite interested in Traditional Art, Game Development, 3D Modelling and now Pixel Art! 
 <br>
 - 💻 I’m currently learning Web Development, Pixel Art and 3D Modelling
 <br>
