@@ -1,6 +1,5 @@
 # Āditya Gauranga
 
-<hr>
 <h3><i>Hey there!</i> （￣︶￣)^</h3>
 - 👋 I am Aditya Gauranga from Northeastern India 😄 
 <br>
